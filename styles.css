@@ -1,6 +1,6 @@
 :root {
   color-scheme: light;
-  --bg: #f4efe6;
+  --bg: green;
   --card: #fffdf8;
   --ink: #1f1a16;
   --muted: #6b6258;
@@ -42,7 +42,7 @@ body {
 
 h1 {
   margin: 0 0 0.75rem;
-  font-size: 15px;
+  font-size: 18px;
   line-height: 1.15;
   color: blue;
 }
